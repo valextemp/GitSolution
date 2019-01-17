@@ -10,6 +10,8 @@ namespace GitSolution
     {
         static void Main(string[] args)
         {
+            HomeBranchClass1 hbc1 = new HomeBranchClass1();
+            string nbc1Name = hbc1.Name;
         }
     }
 }
